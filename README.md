@@ -1,2 +1,2 @@
 # odin-recipes
-Odin's recipe project. Strictly HTML.
+Odin's recipe project. Strictly HTML/CSS.
